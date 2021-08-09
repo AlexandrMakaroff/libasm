@@ -1,2 +1,2 @@
 # libasm
- Вtandard assembly library
+ Standard assembly library
